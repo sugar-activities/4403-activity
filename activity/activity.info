@@ -1,0 +1,8 @@
+[Activity]
+name = Sudoku
+activity_version = 9 
+host_version = 1
+bundle_id = mulawa.Sudoku
+icon = activity
+show_launcher = yes
+exec = sugar-activity activity.PeterActivity
